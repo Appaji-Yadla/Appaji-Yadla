@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Appaji-Yadla
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on together 
 - 📫 How to reach me ph: 9701463455 mail: appajiyadla123@gmail.com
 
