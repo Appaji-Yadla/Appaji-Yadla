@@ -1,4 +1,4 @@
-# **Appaji Yadla - Software Engineer and Data Science Enthusiast**
+# **Appaji Yaddla - Software Engineer and Data Science Enthusiast**
 
 
 👋 Hello! I'm Appaji Yadla, a Software Engineer currently pursuing a Data Science course at Innomatics Research Labs. I am also excited to share that I've been selected as a Data Science Intern at Innomatics Research Labs. With a strong foundation in software engineering and a growing passion for data science, I am actively exploring and contributing to various projects.
