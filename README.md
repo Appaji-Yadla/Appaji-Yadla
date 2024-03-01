@@ -47,3 +47,6 @@ Feel free to reach out if you have any questions, suggestions, or if you're inte
 📞 Phone: 9701463455
 
 📧 Email: appajiyadla123@gmail.com
+
+🔗 Linkedin: www.linkedin.com/in/appajiyaddla
+
