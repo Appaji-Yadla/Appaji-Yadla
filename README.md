@@ -4,6 +4,17 @@
 👋 Hello! I'm Appaji Yadla. Experienced Data Scientist and Software Engineer with a strong background in mathematics and extensive expertise indata analysis, machine learning. Proven track record in creating actionable insights through advanced analytics anddeveloping scalable AI solutions.
 
 **Projects:**
+
+**GenerativeAI Chatbot Development**
+
+      • Developed an AI chatbot utilizing GPT-4 model for an EdTech company.
+      
+      • Focused on subject-specific assistance and implemented system and user prompts to enhance functionality.
+      
+      • Currently optimizing token usage and operational costs through advanced NLP techniques and model tuning.
+      
+      • Collaborating with team to implement chunking, sentence embeddings, and cosine similarity to minimize token consumption without compromising response quality.
+
 1. **Medical Cost Prediction (Healthcare Domain)**
 
    Problem Statement: Predict the medical costs billed by health insurance on an individual given some features about the individual in the dataset.
